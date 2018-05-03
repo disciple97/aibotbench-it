@@ -1,0 +1,30 @@
+What is a nanometer?;.*billion.*of.*meter.*
+Who was Darth Vader's son?;.*luke.*skywalker.*
+What are chloroplasts?;.*plant.*cells.*
+What is the name of Joan Jett's band?;.*blackhearts.*
+What is cribbage?;.*card.*game.*
+What is the airport code for Los Angeles International?;.*lax.*
+Who wrote "An Ideal Husband"?;.*oscar.*wilde.*
+What radio station did Paul Harvey work for?;.*abc.*
+What's the name of the song Will Smith sings about parents?;.*IDONOTKNOWANSWER.*
+How many islands does Fiji have?;.*320.*
+What year did the Vietnam War end?;.*1975.*
+How long do hermit crabs live?;.*30.*years.*
+What is the zip code for Fremont, CA?;.*94537.*
+Who manufacturers Magic Chef applicances?;.*cna.*international.*inc.*
+Logan International serves what city?;.*Boston.*
+When is Bastille Day?;.*14.*july.*
+Who provides telephone service in Orange County, California?;.*pacific.*bell.*
+What attracts tourists to Reims?;.*IDONOTKNOWANSWER.*
+How did Bob Marley die?;.*cancer.*
+What does CNN stand for?;.*cable.*news.*network.*
+Who reports the weather on the "Good Morning America" television show?;.*IDONOTKNOWANSWER.*
+What caused the Lynmouth floods?;.*storm.*heavy.*rainfall.*
+Name a ballet company Mikhail Baryshnikov has danced for?;.*IDONOTKNOWANSWER.*
+Who was the founding member of the Pink Floyd band?;.*roger.*waters.*
+When did the Carolingian period begin?;.*(8.*10.*centuries|7\d+.*9\d+).*
+Where is Tufts University?;.*medford.*
+What does Nicholas Cage do for a living?;.*actor.*
+Where did guinea pigs originate?;.*south.*america.*
+What country are Godiva chocolates from?;.*belg.*
+Who is Charles Lindbergh?;.*IDONOTKNOWANSWER.*

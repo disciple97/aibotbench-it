@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+
+  <jmxConfigurator/>
+
+  <property name="date.format" value="{yyyy-MM-dd'T'HH:mm:ss.SSS'Z',UTC}"/>
+  <property name="log.pattern" value="[%relative] [%d${date.format}] [%thread] [%logger{35}:%line] [%level]: %m%n"/>
+
+  <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <charset>UTF-8</charset>
+      <Pattern>${log.pattern}</Pattern>
+    </encoder>
+  </appender>
+
+  <logger name="com.aibotbench.it" level="DEBUG"/>
+
+  <root level="INFO">
+    <appender-ref ref="console"/>
+  </root>
+
+</configuration>
