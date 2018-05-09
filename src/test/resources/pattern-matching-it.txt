@@ -1,4 +1,4 @@
-What is a nanometer?;.*billion.*of.*meter.*
+What is a nanometer?;.*met.*
 Who was Darth Vader's son?;.*luke.*skywalker.*
 What are chloroplasts?;.*plant.*cells.*
 What is the name of Joan Jett's band?;.*blackhearts.*
@@ -6,8 +6,8 @@ What is cribbage?;.*card.*game.*
 What is the airport code for Los Angeles International?;.*lax.*
 Who wrote "An Ideal Husband"?;.*oscar.*wilde.*
 What radio station did Paul Harvey work for?;.*abc.*
-What's the name of the song Will Smith sings about parents?;.*IDONOTKNOWANSWER.*
-How many islands does Fiji have?;.*320.*
+What's the name of the song Will Smith sings about parents?;.*parents.*
+How many islands does Fiji have?;.*330.*
 What year did the Vietnam War end?;.*1975.*
 How long do hermit crabs live?;.*30.*years.*
 What is the zip code for Fremont, CA?;.*94537.*
@@ -15,16 +15,315 @@ Who manufacturers Magic Chef applicances?;.*cna.*international.*inc.*
 Logan International serves what city?;.*Boston.*
 When is Bastille Day?;.*14.*july.*
 Who provides telephone service in Orange County, California?;.*pacific.*bell.*
-What attracts tourists to Reims?;.*IDONOTKNOWANSWER.*
 How did Bob Marley die?;.*cancer.*
 What does CNN stand for?;.*cable.*news.*network.*
-Who reports the weather on the "Good Morning America" television show?;.*IDONOTKNOWANSWER.*
-What caused the Lynmouth floods?;.*storm.*heavy.*rainfall.*
-Name a ballet company Mikhail Baryshnikov has danced for?;.*IDONOTKNOWANSWER.*
+Who reports the weather on the "Good Morning America" television show?;.*Spencer.*
+What caused the Lynmouth floods?;.*rainfall.*
+Name a ballet company Mikhail Baryshnikov has danced for?;.*New York.*
 Who was the founding member of the Pink Floyd band?;.*roger.*waters.*
 When did the Carolingian period begin?;.*(8.*10.*centuries|7\d+.*9\d+).*
 Where is Tufts University?;.*medford.*
 What does Nicholas Cage do for a living?;.*actor.*
 Where did guinea pigs originate?;.*south.*america.*
 What country are Godiva chocolates from?;.*belg.*
-Who is Charles Lindbergh?;.*IDONOTKNOWANSWER.*
+Who is Charles Lindbergh?;.*aviator.*
+Who is the President of Russia;.*putin.*
+Who is the President of the United States;.*trump*.
+Who is the prime minister of Russia;.*medvedev.*
+Who is the founder of Amazon;.*bezos*.
+What is a drone;.*unmanned.*
+Hello;.*hello.*
+Good day;.*good day.*
+Bye;.*bye.*
+How many wings does the plane have;.*two.*
+How many people live in Moscow;.*12.*
+How many rotor blades do helicopter have;.*(2|3|4|5|6|8).*
+Who is Bill Gates;.*microsoft.*
+What type of bridge is the Golden Gate Bridge?;.*suspension.*
+What is the population of the Bahamas?;.*250,000.*
+What state has the most Indians?;.*California.*
+How many dogs pull a sled in the Iditarod?;.*8-12.*
+Where did bocci originate?;.*Italian.*
+Name a flying mammal.;.*Bats.*
+How many hexagons are on a soccer ball?;.*20.*
+What is the primary language of the Philippines?;.*Filipino.*
+Where's Montenegro?;.*Yugoslavia.*
+Who is the Greek God of the Sea?;.*Poseidon.*
+Where is the Danube?;.*Europe.*
+What is platinum?;.*metal.*
+When did the vesuvius last erupt?;.*1944.*
+Name one of the major gods of Hinduism?;.*Brahma.*
+What was the name of the famous battle in 1836 between Texas and Mexico?;.*Alamo.*
+Where did the ukulele originate?;.*Portugal.*
+Who won the Battle of Gettysburg?;.*North.*
+Where did the Maya people live?;.*Mexico.*
+When was the first flush toilet invented?;.*1775.*
+Who thought of teaching people to tie their shoe laces?;.*Starlace.*
+What are birds descendents of?;.*dinosaurs.*
+What is the name of the longest ruling dynasty of Japan?;.*Hiromito.*
+When was Babe Ruth born?;.*1895.*
+What's the farthest planet from the sun?;.*Pluto.*
+Where was Pythagoras born?;.*Greek.*
+What is the name for clouds that produce rain?;.*cumulonimbus.*
+How tall is the giraffe?;.*18-foot-tall.*
+Where are there aborigines?;.*Australia.*
+Who was the first U.S. president ever to resign?;.*Nixon.*
+How large is Missouri's population?;.*5,079,385.*
+What was the death toll at the eruption of Mount Pinatubo?;.*200.*
+When did Geraldine Ferraro run for vice president?;.*1984.*
+What do ladybugs eat?;.*aphids.*
+When was the first railroad from the east coast to the west coast completed?;.*1869.*
+What is the federal minimum wage?;.*$5.05.*
+What did brontosauruses eat?;.*plant-eaters.*
+What is California's state tree?;.*Redwood.*
+How many people die from snakebite poisoning in the U.S. per year?;.*13.*
+Who is the prophet of the religion of Islam?;.*Muhammad.*
+Where is Tornado Alley?;.*Texas.*
+What is molybdenum?;.*metal.*
+Who is Peter Weir?;.*director-writer.*
+How many home runs did Babe Ruth hit in his lifetime?;.*714.*
+Where is the bridge over the river Kwai?;.*Thailand.*
+How many Superbowls have the 49ers won?;.*four.*
+Who was the architect of Central Park?;.*Olmstead.*
+Who invented paper?;.*China.*
+Name a tiger that is extinct?;.*Tasmanian.*
+Where did Bill Gates go to college?;.*Harvard.*
+How many continents are there?;.*7.*
+When was the De Beers company founded?;.*1888.*
+What is California's capital?;.*Sacramento.*
+When was the slinky invented?;.*1943.*
+What is the name of the second space shuttle?;.*Columbia.*
+What is the wingspan of a condor?;.*9-foot.*
+When was Microsoft established?;.*1975.*
+What's the average salary of a professional baseball player?;.*$890,000.*
+What was the ball game of ancient Mayans called?;.*pelota.*
+What's the longest river in the world?;.*Amazon.*
+Who is Langston Hughes?;.*poet.*
+How many Stradivarius violins were ever made?;.*1,116.*
+The numbering system we use today was introduced to the western world by what culture?;.*Hindu-Arabic.*
+Where does chocolate come from?;.*Cocoa.*
+What state in the United States covers the largest area?;.*Alaska.*
+Where is Melbourne?;.*Australia.*
+How much in miles is a ten K run?;.*6.*
+What is the capital of Burkina Faso?;.*Ouagadougou.*
+What is the capital of Haiti?;.*Port-Au-Prince.*
+Who won the Superbowl in 1982?;.*49ers.*
+What is the most common cancer?;.*lung.*
+A corgi is a kind of what?;.*dog.*
+When was the Triangle Shirtwaist fire?;.*1911.*
+Where is the Kalahari desert?;.*Namibia.*
+What ocean did the Titanic sink in?;.*Atlantic.*
+Who is the emperor of Japan?;.*Akhito.*
+What language is mostly spoken in Brazil?;.*Portuguese.*
+Where are zebras most likely found?;.*Africa.*
+What year did Montana become a state?;.*1889.*
+Who painted Olympia?;.*Manet.*
+What is the longest word in the English language?;.*pneumonoultramicroscopicsilicovolcanoconiosis.*
+What is the exchange rate between England and the U.S.?;.*$1.5883.*
+What is the name of the Jewish alphabet?;.*Alef-Beyz.*
+Who was Maria Theresa?;.*Empress.*
+Tell me what city the Kentucky Horse Park is near?;.*Lexington.*
+What kind of animal was Winnie the Pooh?;.*bear.*
+What tourist attractions are there in Reims?;.*Cathedral.*
+Name a film in which Jude Law acted.;.*Shopping.*
+Where are the U.S. headquarters for Procter & Gamble?;.*Ohio-based.*
+What do you call a group of geese?;.*gaggle.*
+How many months does a normal human pregnancy last?;.*nine.*
+What format was VHS's main competition?;.*Beta.*
+What culture developed the idea of potlatch?;.*Indian.*
+Where is Logan International located?;.*Boston's.*
+What university was Woodrow Wilson President of?;.*Princeton.*
+Where is Basque country located?;.*Spain.*
+What state produces the best lobster to eat?;.*Maine.*
+Who was Darth Vader's son?;.*Luke.*
+How did Bob Marley die?;.*cancer.*
+What instrument is Ray Charles best known for playing?;.*piano.*
+What is titanium?;.*metal.*
+Where was Poe born?;.*Boston.*
+Where is the location of the Orange Bowl?;.*Miami.*
+What is the abbreviation for Original Equipment Manufacturer?;.*OEM.*
+What is anise?;.*spices.*
+What does Nicholas Cage do for a living?;.*actor.*
+What does caliente mean (in English)?;.*hot.*
+Who created "The Muppets"?;.*Henson.*
+When was John D. Rockefeller born?;.*1839.*
+Name a Gaelic language.;.*Irish.*
+What is measured in curies?;.*radioactivity.*
+What is a stratocaster?;.*guitar.*
+Where are the headquarters of Eli Lilly?;.*Indianapolis.*
+Where is Glasgow?;.*Scotland.*
+What year did Hitler die?;.*1945.*
+When did the American Civil War end?;.*1865.*
+Who first broke the sound barrier?;.*Yeager.*
+What is the salary of a U.S. Representative?;.*$89,500.*
+What is the airport code for Los Angeles International?;.*LAX.*
+What is the zip code for Fremont, CA?;.*94537.*
+What is the name of the Lion King's son in the movie, "The Lion King"?;.*Simba.*
+How many states have a "lemon law" for new automobiles?;.*44.*
+What are the Poconos?;.*mountains.*
+What is the name of the vaccine for chicken pox?;.*Varivax.*
+When did Aldous Huxley write, "Brave New World"?;.*1932.*
+What city in Florida is Sea World in?;.*Orlando.*
+What is one of the cities that the University of Minnesota is located in?;.*Duluth.*
+What kind of sports team is the Buffalo Sabres?;.*hockey.*
+What city is Massachusetts General Hospital located in?;.*Boston.*
+When did the California lottery begin?;.*1985.*
+Where is Los Vegas?;.*Nevada.*
+When was Beethoven born?;.*1770.*
+What's the name of the tiger that advertises for Frosted Flakes cereal?;.*Tony.*
+Who is Henry Butler?;.*Pianist.*
+What province is Edmonton located in?;.*Alberta.*
+What is the zip code for Parsippany, NJ?;.*07054.*
+What does EKG stand for?;.*electrocardiograms.*
+When was the NFL established?;.*1920.*
+What are geckos?;.*lizards.*
+Who is Terrence Malick?;.*directors.*
+What is the population of the United States?;.*249,632,692.*
+What animal do buffalo wings come from?;.*chicken.*
+When was the bar-code invented?;.*1948.*
+What's the abbreviation for limited partnership?;.*LP.*
+What are pomegranates?;.*fruit.*
+When was the Hoover Dam constructed?;.*1936.*
+What's the most famous tourist attraction in Rome?;.*Coliseum.*
+At Christmas time, what is the traditional thing to do under the mistletoe?;.*kiss.*
+How many zip codes are there in the U.S.?;.*43,000.*
+What was the name of the Titanic's captain?;.*Smith.*
+When is the Tulip Festival in Michigan?;.*May.*
+What store does Martha Stewart advertise for?;.*K-Mart.*
+What state does MO stand for?;.*Missouri.*
+Name a female figure skater.;.*Yamaguchi.*
+What hockey team did Wayne Gretzky play for?;.*Kings.*
+How many home runs did Lou Gehrig have during his career?;.*493.*
+How many states have a lottery?;.*33.*
+What kind of a sports team is the Wisconsin Badgers?;.*basketball.*
+What is the name of Joan Jett's band?;.*Blackhearts.*
+Where did yoga originate?;.*India.*
+What flower did Vincent Van Gogh paint?;.*Sunflowers.*
+What radio station did Paul Harvey work for?;.*KVOO.*
+What is the chemical symbol for nitrogen?;.*N.*
+When did World War I start?;.*1914.*
+What state is Niagra Falls located in?;.*N.Y..*
+When was the movie, Caligula, made?;.*1976.*
+Name an American war plane?;.*F-15C.*
+How many highway miles to the gallon can you get with the Ford Fiesta?;.*43mpg.*
+What is the mascot for Notre Dame University?;.*Leprechaun.*
+Who manufactures the software, "PhotoShop"?;.*Adobe.*
+How many casinos are in Atlantic City, NJ?;.*12.*
+What state does Martha Stewart live in?;.*Connecticut.*
+When was Nostradamus born?;.*1503.*
+What is the name of the art of growing miniature trees?;.*bonsai.*
+What type of hunting are retrievers used for?;.*bird.*
+What party was Winston Churchill a member of?;.*conservatives.*
+What city is 94.5 KDGE Radio located in?;.*Dallas.*
+What President became Chief Justice after his presidency?;.*Taft.*
+What is Dr. Ruth's last name?;.*Westheimer.*
+Italy is the largest producer of what?;.*wine.*
+Who manufacturers Magic Chef applicances?;.*Maytag.*
+Who is Secretary-General of the United Nations?;.*Butrus-Ghali.*
+How many counties are in Indiana?;.*92.*
+Where was Tesla born?;.*Croatia.*
+Where is Kings Canyon?;.*Sierra.*
+How big is the Electoral College?;.*538.*
+How much does one ton of cement cost?;.*$30.*
+What is the name of a Greek god?;.*Poseidon.*
+What year was the first automobile manufactured?;.*1891.*
+What was the name of Jacques Cousteau's ship?;.*Calypso.*
+What sport do the Cleaveland Cavaliers play?;.*basketball.*
+What year was the Avery Dennison company founded?;.*1990.*
+What's the population of Biloxi, Mississippi?;.*46,000.*
+What's the name of the Tokyo Stock Exchange?;.*Nikkei.*
+What type of horses appear on the Budweiser commercials?;.*Clydesdales.*
+What do river otters eat?;.*fish.*
+When did Amtrak begin operations?;.*1971.*
+What year did the Vietnam War end?;.*1975.*
+What country are Godiva chocolates from?;.*Belgian.*
+How many islands does Fiji have?;.*320.*
+What card company sells Christmas ornaments?;.*Hallmark.*
+Who manufactures synthroid?;.*Boots.*
+What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize?;.*1984.*
+What city did the Flintstones live in?;.*Bedrock.*
+Where is Ocho Rios?;.*Jamaica.*
+What year was Janet Jackson's first album released?;.*1986.*
+What is another name for nearsightedness?;.*myopia.*
+Winnie the Pooh is what kind of animal?;.*bear.*
+What species was Winnie the Pooh?;.*bear.*
+Winnie the Pooh is an imitation of which animal?;.*bear.*
+What was the species of Winnie the Pooh?;.*bear.*
+What are the names of the tourist attractions in Reims?;.*Cathedral.*
+What do most tourists visit in Reims?;.*Cathedral.*
+What attracts tourists to Reims?;.*Cathedral.*
+What are tourist attractions in Reims?;.*Cathedral.*
+What could I see in Reims?;.*Cathedral.*
+What is worth seeing in Reims?;.*Cathedral.*
+What can one see in Reims?;.*Cathedral.*
+Jude Law was in what movie?;.*Shopping.*
+Jude Law acted in which film?;.*Shopping.*
+What is a film starring Jude Law?;.*Shopping.*
+What film was Jude Law in?;.*Shopping.*
+What film or films has Jude Law appeared in?;.*Shopping.*
+What city houses the U.S. headquarters of Procter and Gamble?;.*Ohio-based.*
+Where is Procter & Gamble headquartered in the U.S.?;.*Ohio-based.*
+What is the U.S. location of Procter & Gamble corporate offices?;.*Ohio-based.*
+Procter & Gamble is headquartered in which U.S. city?;.*Ohio-based.*
+Where is Procter & Gamble based in the U.S.?;.*Ohio-based.*
+What is the collective term for geese?;.*gaggle.*
+What is the collective noun for geese?;.*gaggle.*
+What is the term for a group of geese?;.*gaggle.*
+What is the name given to a group of geese?;.*gaggle.*
+A normal human pregnancy lasts how many months?;.*nine.*
+What was the alternate to VHS?;.*Beta.*
+What video format was an alternative to VHS?;.*Beta.*
+What format was the major competition of VHS?;.*Beta.*
+What ethnic group introduced the idea of potlatch?;.*Indian.*
+What is the cultural origin of the ceremony of potlatch?;.*Indian.*
+Who developed potlatch?;.*Indian.*
+Where is Logan Airport?;.*Boston's.*
+What city is Logan Airport in?;.*Boston's.*
+Logan International serves what city?;.*Boston's.*
+Logan International is located in what city?;.*Boston's.*
+What city's airport is named Logan International?;.*Boston's.*
+What city is served by Logan International Airport?;.*Boston's.*
+Woodrow Wilson was president of which university?;.*Princeton.*
+Name the university of which Woodrow Wilson was president.;.*Princeton.*
+Woodrow Wilson served as president of what university?;.*Princeton.*
+What was the name of Darth Vader's son?;.*Luke.*
+What was Darth Vader's son named?;.*Luke.*
+What caused the death of Bob Marley?;.*cancer.*
+What killed Bob Marley?;.*cancer.*
+What was the cause of Bob Marley's death?;.*cancer.*
+What instrument does Ray Charles play?;.*piano.*
+Musician Ray Charles plays what instrument?;.*piano.*
+Ray Charles plays which instrument?;.*piano.*
+Ray Charles is best known for playing what instrument?;.*piano.*
+What was Poe's birthplace?;.*Boston.*
+What was the birthplace of Edgar Allen Poe?;.*Boston.*
+Where is Poe's birthplace?;.*Boston.*
+What English word has the most letters?;.*pneumonoultramicroscopicsilicovolcanoconiosis.*
+What English word contains the most letters?;.*pneumonoultramicroscopicsilicovolcanoconiosis.*
+What is the longest English word?;.*pneumonoultramicroscopicsilicovolcanoconiosis.*
+Who invented "The Muppets"?;.*Henson.*
+What was the name of "The Muppets" creator?;.*Henson.*
+"The Muppets" was created by whom?;.*Henson.*
+Name the creator of "The Muppets".;.*Henson.*
+Who is the creator of "The Muppets"?;.*Henson.*
+What city is the Orange Bowl in?;.*Miami.*
+The Orange Bowl is in what city?;.*Miami.*
+The Orange Bowl is located in what city?;.*Miami.*
+Where is the Orange Bowl?;.*Miami.*
+How do you abbreviate "Original Equipment Manufacturer"?;.*OEM.*
+How is "Original Equipment Manufacturer" abbreviated?;.*OEM.*
+What is the occupation of Nicholas Cage?;.*actor.*
+What is Nicholas Cage's profession?;.*actor.*
+What is Nicholas Cage's occupation?;.*actor.*
+What does caliente translate to in English?;.*hot.*
+What is the English meaning of caliente?;.*hot.*
+What is the meaning of caliente (in English)?;.*hot.*
+What is the English translation for the word "caliente"?;.*hot.*
+What is the Jewish alphabet called?;.*Alef-Beyz.*
+The Jewish alphabet is called what?;.*Alef-Beyz.*
+The Jewish alphabet is known as what?;.*Alef-Beyz.*
+The Kentucky Horse Park is close to which American city?;.*Lexington.*
+Where is the Kentucky Horse Park located?;.*Lexington.*
+Where is the Kentucky Horse Park?;.*Lexington.*
+What city is the Kentucky Horse Park near?;.*Lexington.*
+The Kentucky Horse Park is located near what city?;.*Lexington.*
