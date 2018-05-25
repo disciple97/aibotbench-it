@@ -1,3 +1,50 @@
+# Table of Contents
+
+* [External Services API](#external-services-api)
+  * [NER](#ner)
+  * [SQUAD](#squad)
+* [AI Bot Bench Integration Tests](#ai-bot-bench-integration-tests)
+  * [Running of Tests](#running-of-tests)
+  * [Pattern Matching Integration Test](#pattern-matching-integration-test)
+
+# External Services API
+
+## NER
+
+* Request body
+  ```json
+  {"text1":"What is the weather in Moscow?"}
+  ```
+  or
+  ```json
+  {"text1":"Какая погода в Санкт-Петербурге?"}
+  ```
+
+* Response body
+  ```json
+  [["What", "O"], ["is", "O"], ["the", "O"], ["weather", "O"], ["in", "O"], ["Moscow", "B-GPE"], ["?", "O"]]
+  ```
+  or
+  ```json
+  [["Какая", "O"], ["погода", "O"], ["в", "O"], ["Санкт-Петербурге", "B-LOC"], ["?", "O"]]
+  ```   
+
+## SQUAD
+
+* Request body
+  ```json
+  {
+    "context": "Some context should be provided here",
+    "question": "Question is put here"
+  }
+  ```
+
+* Response body
+  ```json
+  [ "Reply should be provided here", 0, 0.9782 ]
+  ```
+  The 1st item in the array is a reply itself, 2nd - position in a provided context, 3rd - confidence.
+
 # AI Bot Bench Integration Tests
 
 ## Running of Tests
