@@ -28,9 +28,9 @@ Where did guinea pigs originate?;.*south.*america.*
 What country are Godiva chocolates from?;.*belg.*
 Who is Charles Lindbergh?;.*aviator.*
 Who is the President of Russia;.*putin.*
-Who is the President of the United States;.*trump*.
+Who is the President of the United States;.*trump.*
 Who is the prime minister of Russia;.*medvedev.*
-Who is the founder of Amazon;.*bezos*.
+Who is the founder of Amazon;.*bezos.*
 What is a drone;.*unmanned.*
 Hello;.*hello.*
 Good day;.*good day.*

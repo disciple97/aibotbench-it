@@ -18,18 +18,20 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.List;
+import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import static com.aibotbench.it.api.Constant.AIBOTBENCH_URL;
 import static com.aibotbench.it.api.Constant.DEFAULT_CHARSET;
-import static java.util.regex.Pattern.CASE_INSENSITIVE;
-import static java.util.regex.Pattern.MULTILINE;
+import static java.lang.String.format;
 import static java.util.regex.Pattern.compile;
 import static java.util.stream.Collectors.toList;
 
 @Slf4j
 public class PatternMatchingIT {
+
+  private static final String FILE_FORMAT = "/pattern-matching-it_%s.txt";
 
   private static final Pattern PATTERN = compile("(.*?);(.*)");
 
@@ -51,9 +53,18 @@ public class PatternMatchingIT {
   }
 
   @Test
-  public void testPatternMatching() throws IOException {
+  public void testEnglishPatternMatching() throws IOException {
+    test(Locale.ENGLISH);
+  }
+
+  @Test
+  public void testRussianPatternMatching() throws IOException {
+    test(new Locale("ru", "RU", "Cyrl"));
+  }
+
+  private void test(Locale locale) throws IOException {
     try (
-        InputStream in = getClass().getResourceAsStream("/pattern-matching-it.txt");
+        InputStream in = getClass().getResourceAsStream(format(FILE_FORMAT, locale.getLanguage()));
         BufferedReader br = new BufferedReader(new InputStreamReader(in, DEFAULT_CHARSET))
     ) {
       List<Matcher> matchers = br.lines()
@@ -71,18 +82,20 @@ public class PatternMatchingIT {
       int n = matchers.size();
       log.info("Total number of patters to be matched: {}", n);
 
-      matchers.forEach(m -> check(m.group(1), m.group(2)));
+      String url = format("%s?lang=%s", AIBOTBENCH_URL, locale.getLanguage());
+
+      matchers.forEach(m -> check(locale, url, m.group(1), m.group(2)));
 
       int m = softAssertions.errorsCollected().size();
       log.info("Number of collected errors - {}, success rate - {}", m, ((double) (n - m)) / n);
     }
   }
 
-  private void check(String message, String pattern) {
+  private void check(Locale locale, String url, String message, String pattern) {
 
     log.info("Checking... {}", message);
 
-    HttpResponse<AiResponse> httpResponse = Unirest.post(AIBOTBENCH_URL)
+    HttpResponse<AiResponse> httpResponse = Unirest.post(url)
         .header("accept", "application/json")
         .header("Content-Type", "application/json")
         .body(new AiRequest(message))
@@ -90,7 +103,7 @@ public class PatternMatchingIT {
 
     softAssertions.assertThat(httpResponse.getStatus()).isEqualTo(200);
     softAssertions
-        .assertThat(httpResponse.getBody().getText())
-        .matches(compile(pattern, MULTILINE | CASE_INSENSITIVE));
+        .assertThat(httpResponse.getBody().getText().toLowerCase(locale))
+        .matches(compile(pattern.toLowerCase(locale)));
   }
 }
