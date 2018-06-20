@@ -7,10 +7,10 @@ What is the airport code for Los Angeles International?;.*lax.*
 Who wrote "An Ideal Husband"?;.*oscar.*wilde.*
 What radio station did Paul Harvey work for?;.*abc.*
 What's the name of the song Will Smith sings about parents?;.*parents.*
-How many islands does Fiji have?;.*330.*
-What year did the Vietnam War end?;.*1975.*
+How many islands does Fiji have?;.*(330|three hundred and thirty).*
+What year did the Vietnam War end?;.*(1975|one thousand, nine hundred and seventy-five).*
 How long do hermit crabs live?;.*30.*years.*
-What is the zip code for Fremont, CA?;.*94537.*
+What is the zip code for Fremont, CA?;.*(94537|ninety-four thousand, five hundred and thirty-seven).*
 Who manufacturers Magic Chef applicances?;.*cna.*international.*inc.*
 Logan International serves what city?;.*Boston.*
 When is Bastille Day?;.*14.*july.*
@@ -36,7 +36,7 @@ Hello;.*hello.*
 Good day;.*good day.*
 Bye;.*bye.*
 How many wings does the plane have;.*two.*
-How many people live in Moscow;.*12.*
+How many people live in Moscow;.*(12|twelve).*
 How many rotor blades do helicopter have;.*(2|3|4|5|6|8).*
 Who is Bill Gates;.*microsoft.*
 What type of bridge is the Golden Gate Bridge?;.*suspension.*
@@ -45,23 +45,23 @@ What state has the most Indians?;.*California.*
 How many dogs pull a sled in the Iditarod?;.*8-12.*
 Where did bocci originate?;.*Italian.*
 Name a flying mammal.;.*Bats.*
-How many hexagons are on a soccer ball?;.*20.*
+How many hexagons are on a soccer ball?;.*(20|twenty).*
 What is the primary language of the Philippines?;.*Filipino.*
 Where's Montenegro?;.*Yugoslavia.*
 Who is the Greek God of the Sea?;.*Poseidon.*
 Where is the Danube?;.*Europe.*
 What is platinum?;.*metal.*
-When did the vesuvius last erupt?;.*1944.*
+When did the vesuvius last erupt?;.*(1944|one thousand, nine hundred and forty-four).*
 Name one of the major gods of Hinduism?;.*Brahma.*
 What was the name of the famous battle in 1836 between Texas and Mexico?;.*Alamo.*
 Where did the ukulele originate?;.*Portugal.*
 Who won the Battle of Gettysburg?;.*North.*
 Where did the Maya people live?;.*Mexico.*
-When was the first flush toilet invented?;.*1775.*
+When was the first flush toilet invented?;.*(1775|one thousand, seven hundred and seventy-five).*
 Who thought of teaching people to tie their shoe laces?;.*Starlace.*
 What are birds descendents of?;.*dinosaurs.*
 What is the name of the longest ruling dynasty of Japan?;.*Hiromito.*
-When was Babe Ruth born?;.*1895.*
+When was Babe Ruth born?;.*(1895|one thousand, eight hundred and ninety-five).*
 What's the farthest planet from the sun?;.*Pluto.*
 Where was Pythagoras born?;.*Greek.*
 What is the name for clouds that produce rain?;.*cumulonimbus.*
@@ -69,32 +69,32 @@ How tall is the giraffe?;.*18-foot-tall.*
 Where are there aborigines?;.*Australia.*
 Who was the first U.S. president ever to resign?;.*Nixon.*
 How large is Missouri's population?;.*5,079,385.*
-What was the death toll at the eruption of Mount Pinatubo?;.*200.*
-When did Geraldine Ferraro run for vice president?;.*1984.*
+What was the death toll at the eruption of Mount Pinatubo?;.*(200|two hundred).*
+When did Geraldine Ferraro run for vice president?;.*(1984|one thousand, nine hundred and eighty-four).*
 What do ladybugs eat?;.*aphids.*
-When was the first railroad from the east coast to the west coast completed?;.*1869.*
+When was the first railroad from the east coast to the west coast completed?;.*(1869|one thousand, eight hundred and sixty-nine).*
 What is the federal minimum wage?;.*$5.05.*
 What did brontosauruses eat?;.*plant-eaters.*
 What is California's state tree?;.*Redwood.*
-How many people die from snakebite poisoning in the U.S. per year?;.*13.*
+How many people die from snakebite poisoning in the U.S. per year?;.*(13|thirteen).*
 Who is the prophet of the religion of Islam?;.*Muhammad.*
 Where is Tornado Alley?;.*Texas.*
 What is molybdenum?;.*metal.*
 Who is Peter Weir?;.*director-writer.*
-How many home runs did Babe Ruth hit in his lifetime?;.*714.*
+How many home runs did Babe Ruth hit in his lifetime?;.*(714|seven hundred and fourteen).*
 Where is the bridge over the river Kwai?;.*Thailand.*
 How many Superbowls have the 49ers won?;.*four.*
 Who was the architect of Central Park?;.*Olmstead.*
 Who invented paper?;.*China.*
 Name a tiger that is extinct?;.*Tasmanian.*
 Where did Bill Gates go to college?;.*Harvard.*
-How many continents are there?;.*7.*
-When was the De Beers company founded?;.*1888.*
+How many continents are there?;.*(7|seven).*
+When was the De Beers company founded?;.*(1888|one thousand, eight hundred and eighty-eight).*
 What is California's capital?;.*Sacramento.*
-When was the slinky invented?;.*1943.*
+When was the slinky invented?;.*(1943|one thousand, nine hundred and forty-three).*
 What is the name of the second space shuttle?;.*Columbia.*
 What is the wingspan of a condor?;.*9-foot.*
-When was Microsoft established?;.*1975.*
+When was Microsoft established?;.*(1975|one thousand, nine hundred and seventy-five).*
 What's the average salary of a professional baseball player?;.*$890,000.*
 What was the ball game of ancient Mayans called?;.*pelota.*
 What's the longest river in the world?;.*Amazon.*
@@ -104,19 +104,19 @@ The numbering system we use today was introduced to the western world by what cu
 Where does chocolate come from?;.*Cocoa.*
 What state in the United States covers the largest area?;.*Alaska.*
 Where is Melbourne?;.*Australia.*
-How much in miles is a ten K run?;.*6.*
+How much in miles is a ten K run?;.*(6|six).*
 What is the capital of Burkina Faso?;.*Ouagadougou.*
 What is the capital of Haiti?;.*Port-Au-Prince.*
 Who won the Superbowl in 1982?;.*49ers.*
 What is the most common cancer?;.*lung.*
 A corgi is a kind of what?;.*dog.*
-When was the Triangle Shirtwaist fire?;.*1911.*
+When was the Triangle Shirtwaist fire?;.*(1911|one thousand, nine hundred and eleven).*
 Where is the Kalahari desert?;.*Namibia.*
 What ocean did the Titanic sink in?;.*Atlantic.*
 Who is the emperor of Japan?;.*Akhito.*
 What language is mostly spoken in Brazil?;.*Portuguese.*
 Where are zebras most likely found?;.*Africa.*
-What year did Montana become a state?;.*1889.*
+What year did Montana become a state?;.*(1889|one thousand, eight hundred and eighty-nine).*
 Who painted Olympia?;.*Manet.*
 What is the longest word in the English language?;.*pneumonoultramicroscopicsilicovolcanoconiosis.*
 What is the exchange rate between England and the U.S.?;.*$1.5883.*
@@ -146,44 +146,44 @@ What is anise?;.*spices.*
 What does Nicholas Cage do for a living?;.*actor.*
 What does caliente mean (in English)?;.*hot.*
 Who created "The Muppets"?;.*Henson.*
-When was John D. Rockefeller born?;.*1839.*
+When was John D. Rockefeller born?;.*(1839|one thousand, eight hundred and thirty-nine).*
 Name a Gaelic language.;.*Irish.*
 What is measured in curies?;.*radioactivity.*
 What is a stratocaster?;.*guitar.*
 Where are the headquarters of Eli Lilly?;.*Indianapolis.*
 Where is Glasgow?;.*Scotland.*
-What year did Hitler die?;.*1945.*
-When did the American Civil War end?;.*1865.*
+What year did Hitler die?;.*(1945|one thousand, nine hundred and forty-five).*
+When did the American Civil War end?;.*(1865|one thousand, eight hundred and sixty-five).*
 Who first broke the sound barrier?;.*Yeager.*
 What is the salary of a U.S. Representative?;.*$89,500.*
 What is the airport code for Los Angeles International?;.*LAX.*
-What is the zip code for Fremont, CA?;.*94537.*
+What is the zip code for Fremont, CA?;.*(94537|ninety-four thousand, five hundred and thirty-seven).*
 What is the name of the Lion King's son in the movie, "The Lion King"?;.*Simba.*
-How many states have a "lemon law" for new automobiles?;.*44.*
+How many states have a "lemon law" for new automobiles?;.*(44|forty-four).*
 What are the Poconos?;.*mountains.*
 What is the name of the vaccine for chicken pox?;.*Varivax.*
-When did Aldous Huxley write, "Brave New World"?;.*1932.*
+When did Aldous Huxley write, "Brave New World"?;.*(1932|one thousand, nine hundred and thirty-two).*
 What city in Florida is Sea World in?;.*Orlando.*
 What is one of the cities that the University of Minnesota is located in?;.*Duluth.*
 What kind of sports team is the Buffalo Sabres?;.*hockey.*
 What city is Massachusetts General Hospital located in?;.*Boston.*
-When did the California lottery begin?;.*1985.*
+When did the California lottery begin?;.*(1985|one thousand, nine hundred and eighty-five).*
 Where is Los Vegas?;.*Nevada.*
-When was Beethoven born?;.*1770.*
+When was Beethoven born?;.*(1770|one thousand, seven hundred and seventy).*
 What's the name of the tiger that advertises for Frosted Flakes cereal?;.*Tony.*
 Who is Henry Butler?;.*Pianist.*
 What province is Edmonton located in?;.*Alberta.*
-What is the zip code for Parsippany, NJ?;.*07054.*
+What is the zip code for Parsippany, NJ?;.*(07054|seven thousand and fifty-four).*
 What does EKG stand for?;.*electrocardiograms.*
-When was the NFL established?;.*1920.*
+When was the NFL established?;.*(1920|one thousand, nine hundred and twenty).*
 What are geckos?;.*lizards.*
 Who is Terrence Malick?;.*directors.*
 What is the population of the United States?;.*249,632,692.*
 What animal do buffalo wings come from?;.*chicken.*
-When was the bar-code invented?;.*1948.*
+When was the bar-code invented?;.*(1948|one thousand, nine hundred and forty-eight).*
 What's the abbreviation for limited partnership?;.*LP.*
 What are pomegranates?;.*fruit.*
-When was the Hoover Dam constructed?;.*1936.*
+When was the Hoover Dam constructed?;.*(1936|one thousand, nine hundred and thirty-six).*
 What's the most famous tourist attraction in Rome?;.*Coliseum.*
 At Christmas time, what is the traditional thing to do under the mistletoe?;.*kiss.*
 How many zip codes are there in the U.S.?;.*43,000.*
@@ -193,24 +193,24 @@ What store does Martha Stewart advertise for?;.*K-Mart.*
 What state does MO stand for?;.*Missouri.*
 Name a female figure skater.;.*Yamaguchi.*
 What hockey team did Wayne Gretzky play for?;.*Kings.*
-How many home runs did Lou Gehrig have during his career?;.*493.*
-How many states have a lottery?;.*33.*
+How many home runs did Lou Gehrig have during his career?;.*(493|four hundred and ninety-three).*
+How many states have a lottery?;.*(33|thirty-three).*
 What kind of a sports team is the Wisconsin Badgers?;.*basketball.*
 What is the name of Joan Jett's band?;.*Blackhearts.*
 Where did yoga originate?;.*India.*
 What flower did Vincent Van Gogh paint?;.*Sunflowers.*
 What radio station did Paul Harvey work for?;.*KVOO.*
 What is the chemical symbol for nitrogen?;.*N.*
-When did World War I start?;.*1914.*
+When did World War I start?;.*(1914|one thousand, nine hundred and fourteen).*
 What state is Niagra Falls located in?;.*N.Y..*
-When was the movie, Caligula, made?;.*1976.*
+When was the movie, Caligula, made?;.*(1976|one thousand, nine hundred and seventy-six).*
 Name an American war plane?;.*F-15C.*
 How many highway miles to the gallon can you get with the Ford Fiesta?;.*43mpg.*
 What is the mascot for Notre Dame University?;.*Leprechaun.*
 Who manufactures the software, "PhotoShop"?;.*Adobe.*
-How many casinos are in Atlantic City, NJ?;.*12.*
+How many casinos are in Atlantic City, NJ?;.*(12|twelve).*
 What state does Martha Stewart live in?;.*Connecticut.*
-When was Nostradamus born?;.*1503.*
+When was Nostradamus born?;.*(1503|one thousand, five hundred and three).*
 What is the name of the art of growing miniature trees?;.*bonsai.*
 What type of hunting are retrievers used for?;.*bird.*
 What party was Winston Churchill a member of?;.*conservatives.*
@@ -220,30 +220,30 @@ What is Dr. Ruth's last name?;.*Westheimer.*
 Italy is the largest producer of what?;.*wine.*
 Who manufacturers Magic Chef applicances?;.*Maytag.*
 Who is Secretary-General of the United Nations?;.*Butrus-Ghali.*
-How many counties are in Indiana?;.*92.*
+How many counties are in Indiana?;.*(92|ninety-two).*
 Where was Tesla born?;.*Croatia.*
 Where is Kings Canyon?;.*Sierra.*
-How big is the Electoral College?;.*538.*
+How big is the Electoral College?;.*(538|five hundred and thirty-eight).*
 How much does one ton of cement cost?;.*$30.*
 What is the name of a Greek god?;.*Poseidon.*
-What year was the first automobile manufactured?;.*1891.*
+What year was the first automobile manufactured?;.*(1891|one thousand, eight hundred and ninety-one).*
 What was the name of Jacques Cousteau's ship?;.*Calypso.*
 What sport do the Cleaveland Cavaliers play?;.*basketball.*
-What year was the Avery Dennison company founded?;.*1990.*
+What year was the Avery Dennison company founded?;.*(1990|one thousand, nine hundred and ninety).*
 What's the population of Biloxi, Mississippi?;.*46,000.*
 What's the name of the Tokyo Stock Exchange?;.*Nikkei.*
 What type of horses appear on the Budweiser commercials?;.*Clydesdales.*
 What do river otters eat?;.*fish.*
-When did Amtrak begin operations?;.*1971.*
-What year did the Vietnam War end?;.*1975.*
+When did Amtrak begin operations?;.*(1971|one thousand, nine hundred and seventy-one).*
+What year did the Vietnam War end?;.*(1975|one thousand, nine hundred and seventy-five).*
 What country are Godiva chocolates from?;.*Belgian.*
-How many islands does Fiji have?;.*320.*
+How many islands does Fiji have?;.*(320|three hundred and twenty).*
 What card company sells Christmas ornaments?;.*Hallmark.*
 Who manufactures synthroid?;.*Boots.*
-What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize?;.*1984.*
+What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize?;.*(1984|one thousand, nine hundred and eighty-four).*
 What city did the Flintstones live in?;.*Bedrock.*
 Where is Ocho Rios?;.*Jamaica.*
-What year was Janet Jackson's first album released?;.*1986.*
+What year was Janet Jackson's first album released?;.*(1986|one thousand, nine hundred and eighty-six).*
 What is another name for nearsightedness?;.*myopia.*
 Winnie the Pooh is what kind of animal?;.*bear.*
 What species was Winnie the Pooh?;.*bear.*
