@@ -35,12 +35,12 @@ What is a drone;.*unmanned.*
 Hello;.*hello.*
 Good day;.*good day.*
 Bye;.*bye.*
-How many wings does the plane have;.*two.*
+How many wings does the plane have;.*(2|two).*
 How many people live in Moscow;.*(12|twelve).*
 How many rotor blades do helicopter have;.*(2|3|4|5|6|8).*
 Who is Bill Gates;.*microsoft.*
 What type of bridge is the Golden Gate Bridge?;.*suspension.*
-What is the population of the Bahamas?;.*250,000.*
+What is the population of the Bahamas?;.*(250000|two hundred and fifty thousand).*
 What state has the most Indians?;.*California.*
 How many dogs pull a sled in the Iditarod?;.*8-12.*
 Where did bocci originate?;.*Italian.*
@@ -68,7 +68,7 @@ What is the name for clouds that produce rain?;.*cumulonimbus.*
 How tall is the giraffe?;.*18-foot-tall.*
 Where are there aborigines?;.*Australia.*
 Who was the first U.S. president ever to resign?;.*Nixon.*
-How large is Missouri's population?;.*5,079,385.*
+How large is Missouri's population?;.*(5079385|five million, seventy-nine thousand, three hundred and eighty-five).*
 What was the death toll at the eruption of Mount Pinatubo?;.*(200|two hundred).*
 When did Geraldine Ferraro run for vice president?;.*(1984|one thousand, nine hundred and eighty-four).*
 What do ladybugs eat?;.*aphids.*
@@ -83,7 +83,7 @@ What is molybdenum?;.*metal.*
 Who is Peter Weir?;.*director-writer.*
 How many home runs did Babe Ruth hit in his lifetime?;.*(714|seven hundred and fourteen).*
 Where is the bridge over the river Kwai?;.*Thailand.*
-How many Superbowls have the 49ers won?;.*four.*
+How many Superbowls have the 49ers won?;.*(4|four).*
 Who was the architect of Central Park?;.*Olmstead.*
 Who invented paper?;.*China.*
 Name a tiger that is extinct?;.*Tasmanian.*
@@ -99,7 +99,7 @@ What's the average salary of a professional baseball player?;.*$890,000.*
 What was the ball game of ancient Mayans called?;.*pelota.*
 What's the longest river in the world?;.*Amazon.*
 Who is Langston Hughes?;.*poet.*
-How many Stradivarius violins were ever made?;.*1,116.*
+How many Stradivarius violins were ever made?;.*(1116|one thousand, one hundred and sixteen).*
 The numbering system we use today was introduced to the western world by what culture?;.*Hindu-Arabic.*
 Where does chocolate come from?;.*Cocoa.*
 What state in the United States covers the largest area?;.*Alaska.*
@@ -128,7 +128,7 @@ What tourist attractions are there in Reims?;.*Cathedral.*
 Name a film in which Jude Law acted.;.*Shopping.*
 Where are the U.S. headquarters for Procter & Gamble?;.*Ohio-based.*
 What do you call a group of geese?;.*gaggle.*
-How many months does a normal human pregnancy last?;.*nine.*
+How many months does a normal human pregnancy last?;.*(9|nine).*
 What format was VHS's main competition?;.*Beta.*
 What culture developed the idea of potlatch?;.*Indian.*
 Where is Logan International located?;.*Boston's.*
@@ -178,7 +178,7 @@ What does EKG stand for?;.*electrocardiograms.*
 When was the NFL established?;.*(1920|one thousand, nine hundred and twenty).*
 What are geckos?;.*lizards.*
 Who is Terrence Malick?;.*directors.*
-What is the population of the United States?;.*249,632,692.*
+What is the population of the United States?;.*(249632692|two hundred and forty-nine million, six hundred and thirty-two thousand, six hundred and ninety-two).*
 What animal do buffalo wings come from?;.*chicken.*
 When was the bar-code invented?;.*(1948|one thousand, nine hundred and forty-eight).*
 What's the abbreviation for limited partnership?;.*LP.*
@@ -186,7 +186,7 @@ What are pomegranates?;.*fruit.*
 When was the Hoover Dam constructed?;.*(1936|one thousand, nine hundred and thirty-six).*
 What's the most famous tourist attraction in Rome?;.*Coliseum.*
 At Christmas time, what is the traditional thing to do under the mistletoe?;.*kiss.*
-How many zip codes are there in the U.S.?;.*43,000.*
+How many zip codes are there in the U.S.?;.*(43000|forty-three thousand).*
 What was the name of the Titanic's captain?;.*Smith.*
 When is the Tulip Festival in Michigan?;.*May.*
 What store does Martha Stewart advertise for?;.*K-Mart.*
@@ -230,7 +230,7 @@ What year was the first automobile manufactured?;.*(1891|one thousand, eight hun
 What was the name of Jacques Cousteau's ship?;.*Calypso.*
 What sport do the Cleaveland Cavaliers play?;.*basketball.*
 What year was the Avery Dennison company founded?;.*(1990|one thousand, nine hundred and ninety).*
-What's the population of Biloxi, Mississippi?;.*46,000.*
+What's the population of Biloxi, Mississippi?;.*(46000|forty-six thousand).*
 What's the name of the Tokyo Stock Exchange?;.*Nikkei.*
 What type of horses appear on the Budweiser commercials?;.*Clydesdales.*
 What do river otters eat?;.*fish.*
@@ -270,7 +270,7 @@ What is the collective term for geese?;.*gaggle.*
 What is the collective noun for geese?;.*gaggle.*
 What is the term for a group of geese?;.*gaggle.*
 What is the name given to a group of geese?;.*gaggle.*
-A normal human pregnancy lasts how many months?;.*nine.*
+A normal human pregnancy lasts how many months?;.*(9|nine).*
 What was the alternate to VHS?;.*Beta.*
 What video format was an alternative to VHS?;.*Beta.*
 What format was the major competition of VHS?;.*Beta.*
